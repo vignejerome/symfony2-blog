@@ -17,3 +17,6 @@ app/config/parameters.yml
 
 # config 
 composer.phar
+
+# PHP unit
+app/phpunit.xml
